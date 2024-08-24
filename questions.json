@@ -1,0 +1,234 @@
+{
+  "heading": "Comparing like Fractions and Fractions with same numerator",
+  "topics": [
+    {
+      "heading": "Comparing like Fractions and Fractions with same numerator",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "Grandma showed Tom and Maya two rectangular-shaped plots, whose areas were shaded differently. Find out which plot has more shaded area.",
+            "options": [
+                "Plot 1",
+                "Plot 2",
+                "They are equal",
+                "Cannot be determined"
+            ],
+            "answer": 1,
+            "image" : "./assests/images/1.jpg"
+        },
+        {
+            "questionNo": 2,
+            "question": "If Maya has 17/56 of a chocolate bar and Tom has 11/56 of a chocolate bar, who has more chocolate?",
+            "options": [
+                "Maya",
+                "Tom",
+                "Both have the same amount of chocolate"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 3,
+            "question": "Grandma gave them two rectangular plots of the same size to paint as shown below. Find the fraction of the given plot i & plot ii and tell which plot has a larger shaded area.",
+            "options": [
+                "Plot i",
+                "Plot ii",
+                "Both plot i & plot ii",
+                "It cannot be determined"
+            ],
+            "answer": 1,
+            "image" : "./assests/images/2.jpg"
+        },
+        {
+            "questionNo": 4,
+            "question": "Tom asked Grandma if she could tell him, Which of the following fractions are like fractions.",
+            "options": [
+                "21/45, 31/45, 41/45",
+                "14/21, 14/31, 14/41",
+                "18/28, 19/48, 17/84",
+                "13/35, 16/57, 16/28"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 5,
+            "question": "If Grandma has 13/81 of a bag of flour and Maya has 12/81 of a bag, whose bag has more flour?",
+            "options": [
+                "12/81",
+                "13/81",
+                "Can not determine",
+                "Both are equal"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 6,
+            "question": "Maya and Tom are painting two rectangular garden plots for their grandma. The (plot i) has 19/51 of its area shaded, and the (plot ii )has 19/50 of its area shaded. Which garden plot has a larger shaded area, and why?",
+            "options": [
+                "Plot i",
+                "Plot ii",
+                "Both plot i & plot ii",
+                "It cannot be determined"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 7,
+            "question": "If Tom has 11/12 of a cookie and Maya has 9/12 of a cookie, who has more cookies?",
+            "options": [
+                "Maya",
+                "Tom"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 8,
+            "question": "While sorting Grandma's button collection, Maya and Tom found that 79/15 of the buttons in one box were blue and 79/18 of the buttons in another box were blue. Which box has a larger portion of blue buttons?",
+            "options": [
+                "The first box",
+                "The second box",
+                "Both boxes have the same portion",
+                "Not enough information to determine"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 9,
+            "question": "Maya and Tom are painting garden plots. Plot A has 12/55 of its area shaded, Plot B has 13/55, and Plot C has 44/55. Arrange the plots in ascending order based on the shaded area.",
+            "options": [
+                "Plot A, Plot B, Plot C",
+                "Plot C, Plot B, Plot A",
+                "Plot B, Plot A, Plot C",
+                "Plot A, Plot C, Plot B"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 10,
+            "question": "In the kitchen, Grandma had two plates of cookies. On one plate, 51/12 of the cookies were chocolate chips, and on the other plate, 51/17 of the cookies were chocolate chips. Which plate has a larger portion of chocolate chip cookies?",
+            "options": [
+                "The first plate",
+                "The second plate",
+                "Both plates have the same portion",
+                "Not enough information to determine"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 11,
+            "question": "Maya and Tom found two jars of marbles in the attic. The first jar has 33/10 of its marbles painted red, and the second jar has 33/25 of its marbles painted red. Which jar has a larger portion of red marbles?",
+            "options": [
+                "The first jar",
+                "The second jar",
+                "Both jars have the same portion",
+                "Not enough information to determine"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 12,
+            "question": "Grandma has a basket of apples. If Maya ate 1/8 of the apples, how many apples did Tom eat if he ate an equivalent fraction?",
+            "options": [
+                "4/24 of the apples",
+                "5/40 of the apples",
+                "8/32 of the apples",
+                "All of the above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 13,
+            "question": "Tom asked Maya to arrange the following fractions in descending order:<br> 14/86, 14/256, 14/116, 14/186, 14/136",
+            "options": [
+                "14/86, 14/256, 14/186, 14/136, 14/116",
+                "14/86, 14/116, 14/136, 14/186, 14/256",
+                "14/86, 14/116, 14/256, 14/186, 14/116",
+                "14/256, 14/186, 14/136, 14/116, 14/86"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 14,
+            "question": "Maya and Tom were sorting through Grandma's fruit basket. They found that 17/91 of the fruits were apples, 44/91 of the oranges, and 59/91 of the bananas. Arrange the fruits in descending order based on the portion that is ripe.",
+            "options": [
+                "Apples, oranges, bananas",
+                "Bananas, oranges, apples",
+                "Bananas, apples, oranges",
+                "Not enough information to determine"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 15,
+            "question": "Maya asked Tom to arrange the following fractions in ascending order:<br> 59/3, 59/6, 59/9, 59/22, 59/28.",
+            "options": [
+                "59/13, 59/16, 59/19, 59/22, 59/28",
+                "59/28, 59/22, 59/19, 59/16, 59/13",
+                "59/13, 59/19, 59/16, 59/22, 59/28",
+                "59/13, 59/16, 59/19, 59/18, 59/28"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 16,
+            "question": "Grandma asked Maya and Tom to arrange the following fractions in descending order: <br> 13/57, 13/39, 13/51, 13/41, 13/47",
+            "options": [
+                "13/39, 13/41, 13/47, 13/51, 13/57",
+                "13/41, 13/39, 13/47, 13/51, 13/57",
+                "13/57, 13/51, 13/57, 13/41, 13/39",
+                "13/39, 13/41, 13/51, 13/41, 13/57"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 17,
+            "question": "Maya and Tom found three jars of marbles. In the first jar, 27/95 of the marbles were blue, in the second jar, 38/95, and in the third jar, 47/95. Arrange the jars in descending order based on the portion of blue marbles.",
+            "options": [
+                "First jar, second jar, third jar",
+                "Third jar, second jar, first jar",
+                "Third jar, first jar, second jar",
+                "Not enough information to determine"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 18,
+            "question": "In the garden, Maya watered 1/2 of the plants. If Tom watered an equivalent fraction of plants, how many plants did he water?",
+            "options": [
+                "10/20 of the plants",
+                "7/14 of the plants",
+                "5/10 of the plants",
+                "All of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 19,
+            "question": "Grandma had a basket of apples. If Maya ate 1/5 of the apples, how many apples did Tom eat if he ate an equivalent fraction?",
+            "options": [
+                "4/20 of the apples",
+                "2/10 of the apples",
+                "7/35 of the apples",
+                "All of the above"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 20,
+            "question": "Maya and Tom were baking cookies. If Maya used 2/3 cup of sugar for the recipe, how many cups of sugar did Tom use if he used an equivalent fraction?",
+            "options": [
+                "6/9 cup",
+                "6/2 cup",
+                "9/3 cup",
+                "All of the above"
+            ],
+            "answer": 0
+        }
+    ]
+    
+    
+    
+    
+    
+    }
+  ]
+}
